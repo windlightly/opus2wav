@@ -1,4 +1,4 @@
-# opus2wav
+# opus2wav-py
 opus音频转换为wav
 
 ### 前置准备
