@@ -24,3 +24,5 @@ python opus2wav.py *.opus
 # 指定输出目录
 python opus2wav.py input.opus -o output_dir
 ```
+### 关于opus的一些背景介绍
+https://aoeo.eu.org/public/articles/opus%E9%9F%B3%E9%A2%91%E8%BD%AC%E6%8D%A2%E6%95%99%E7%A8%8B.html
